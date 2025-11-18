@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: 2025-01-01
+Last Updated: 2025-11-18
 
 This Privacy Policy explains how this application handles user data in accordance with the **Japanese APPI (Act on the Protection of Personal Information)** and the **EU GDPR (General Data Protection Regulation)**. This app is a personal diary tool; data is **never shared, sold, or used for advertising**.
 
