@@ -2,7 +2,7 @@
 
 Last Updated: 2026-03-16&#x20;
 
-This Privacy Policy explains how this application handles user data in accordance with the Japanese APPI (Act on the Protection of Personal Information) and the EU GDPR (Gener
+This Privacy Policy explains how this application handles user data in accordance with the Japanese APPI (Act on the Protection of Personal Information) and the EU GDPR (General Data Protection Regulation). This app is a personal diary tool; user data is never shared, sold, or used for advertising. The app does not provide an account or login system.
 
 ***
 
